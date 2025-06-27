@@ -82,10 +82,3 @@ Meu nome é João Henrique Gonçalves (Tenho como apelido Abvet!), tenho 20 anos
     style="padding-right; 10px;"
     src="https://github-readme-stats.vercel.app/api?username=AbvetDot&show_icons=true&theme=dark&include_all_commits=true"
 />
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="100"
-    style="padding-right; 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbvetDot&theme=dark"
-/>
